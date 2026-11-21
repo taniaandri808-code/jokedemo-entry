@@ -16,4 +16,8 @@ npx tsx main.ts
 
 `/output/entry.txt`
 
+## Notes
+
+- The program is deterministic: both runs write identical bytes and require no network access.
+
 Bounty: https://make.fun/bounty/the-joke-about-the-demo-20261121-0551
